@@ -4,3 +4,5 @@ Tout simplement parce que je n'avais pas internet dans mon appartement d'étudia
 c'est pourquoi je l'ai développé autant pour pouvoir y jouer que pour progresser dans la maitrise du langage JAVA.
 
 ALEXIS PREVOST-MAYNEN
+
+Lien pour DL le jeu : http://alexisprevostmaynen.fr/portfolio/2048/
